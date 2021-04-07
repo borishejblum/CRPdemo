@@ -1,0 +1,17 @@
+Package: CRPdemo
+Type: Package
+Title: Non Parametric Bayesian clustering tutorial
+Version: 0.0.1
+Date: 2013-12-02
+Author: Francois Caron, Boris P. Hejblum
+Maintainer: Boris P. Hejblum <boris.hejblum@u-bordeaux.fr>
+Depends: R (>= 4.0),
+    graphics,
+    stats,
+    viridis
+Suggests: expm,
+          gifski
+Description: This package implements example of DPM samplers.
+License: LGPL-3
+RoxygenNote: 7.1.1
+Encoding: UTF-8
